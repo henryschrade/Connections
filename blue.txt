@@ -1,0 +1,100 @@
+bank, drop, roll, hold, gymnastics moves
+bill, fine, fee, toll, charges
+block, charge, screen, pick, basketball actions
+blue, green, pink, yellow, verbs meaning “deceive”
+boom, bust, peak, slump, market cycles
+box, crate, bin, chest, containers
+brake, clutch, gear, pedal, driving actions
+cap, lid, seal, cork, things that close
+catch, field, bat, throw, baseball verbs
+clip, cut, trim, crop, shorten
+coat, cover, glaze, frost, layers
+crack, leak, tear, split, breaches
+crash, dive, plunge, drop, sudden falls
+cross, merge, blend, fuse, combine
+cue, hint, prompt, signal, indirect guidance
+deck, stack, shuffle, deal, card actions
+dial, tune, scan, browse, search
+drift, float, glide, coast, gradual movement
+drive, push, power, fuel, supply energy
+dump, drop, ditch, shed, discard
+edge, rim, border, fringe, boundaries
+face, front, cover, surface, outward side
+fade, dim, dull, mute, reduce intensity
+field, domain, realm, sphere, area of study
+file, record, log, register, document
+fix, rig, stage, frame, manipulate
+flash, flare, gleam, sparkle, sudden brightness
+flip, spin, turn, rotate, circular motion
+fold, bend, crease, curl, flex
+form, shape, mold, cast, create
+freeze, halt, stop, pause, suspend
+grind, mill, crush, pulverize, break down
+guard, shield, block, defend, protect
+hang, linger, loiter, hover, remain nearby
+hit, strike, punch, blow, impact
+hook, snag, catch, grab, seize
+host, stage, mount, present, put on an event
+jam, clog, block, choke, obstruct
+kick, boot, punt, dropkick, foot strikes
+label, tag, mark, stamp, identify
+launch, roll out, debut, introduce, first release
+leak, spill, seep, ooze, escape slowly
+lift, raise, hoist, elevate, move upward
+link, chain, tie, bind, connect
+load, pack, fill, stuff, put inside
+lock, seal, bar, secure, prevent entry
+mark, score, notch, tally, keep count
+match, pair, couple, twin, make a set
+miss, botch, flub, bungle, make an error
+mix, blend, stir, combine, merge
+mount, climb, scale, ascend, go up
+mute, silence, hush, quiet, suppress sound
+net, trap, snare, catch, capture
+note, notice, observe, remark, pay attention
+open, crack, part, split, separate slightly
+pack, bunch, cluster, group, crowd together
+pass, clear, approve, authorize, allow
+patch, fix, mend, repair, restore
+pitch, toss, throw, lob, underhand throws
+plant, place, set, position, put down
+play, act, perform, pretend, role-play
+point, aim, direct, target, indicate
+pop, burst, explode, rupture, sudden break
+post, publish, upload, share, put online
+press, squeeze, compress, compact, apply pressure
+pull, draw, drag, tug, bring closer
+pump, inject, infuse, force in
+push, shove, nudge, prod, apply force
+rack, stack, pile, heap, arrange vertically
+rate, rank, grade, score, evaluate
+reach, extend, stretch, lengthen, make longer
+read, scan, skim, browse, look through text
+reel, wind, crank, spool, wrap around
+release, free, loose, unbind, let go
+reset, reboot, restart, refresh, begin again
+rest, pause, break, stop, take time off
+ride, cruise, coast, roll, travel smoothly
+ring, chime, toll, peal, bell sounds
+roll, wrap, coil, wind, spiral
+save, store, stash, keep, retain
+scrape, scratch, scuff, abrade, surface damage
+seal, close, shut, fasten, secure tightly
+shift, move, slide, transfer, change position
+shoot, fire, launch, discharge, project outward
+sink, dip, descend, drop, go down
+slide, skid, slip, glide, lose traction
+snap, click, pop, crack, quick sounds
+sort, group, classify, organize, arrange
+spark, trigger, ignite, kindle, start suddenly
+spin, whirl, twirl, rotate, turn rapidly
+split, divide, sever, cleave, separate fully
+stack, layer, tier, pile, arrange in levels
+stall, delay, pause, drag, slow progress
+stop, halt, cease, end, bring to a close
+strain, stretch, stress, tax, overwork
+strike, cancel, cross out, delete, remove
+tap, knock, rap, pound, light hits
+throw, ditch, dump, toss, get rid of
+track, trace, follow, tail, pursue
+turn, pivot, swing, swivel, change direction
