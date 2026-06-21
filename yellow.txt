@@ -1,0 +1,20 @@
+red, blue, green, yellow, colors
+apple, banana, orange, pear, fruits
+dog, cat, horse, cow, animals
+run, jump, swim, climb, actions
+shirt, pants, socks, jacket, clothing
+fork, spoon, knife, plate, tableware
+car, bus, train, bike, transportation
+piano, guitar, drum, violin, instruments
+chair, table, couch, bed, furniture
+pen, pencil, marker, crayon, writing tools
+rain, snow, sleet, hail, precipitation
+math, science, history, english, school subjects
+gold, silver, bronze, copper, metals
+circle, square, triangle, rectangle, shapes
+north, south, east, west, directions
+happy, sad, angry, calm, emotions
+bread, rice, pasta, cereal, grains
+hat, scarf, gloves, coat, winter wear
+fire, water, earth, air, elements
+monday, tuesday, wednesday, thursday, weekdays
