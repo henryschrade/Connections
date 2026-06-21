@@ -1,0 +1,100 @@
+civic, radar, level, rotor, palindromes
+knight, gnome, psalm, write, words with silent first letters
+queue, lieu, adieu, plateau, words ending in silent letters
+colonel, kernel, indict, receipt, words with misleading pronunciation
+aisle, isle, idol, idle, homophones
+phoenix, denver, miami, atlanta, cities with sports teams named after animals
+mercury, venus, earth, mars, planets named after Roman gods
+odyssey, iliad, aeneid, metamorphoses, classical epics
+python, ruby, java, swift, programming languages named after things
+panther, jaguar, mustang, bronco, car models named after animals
+jam, fly, pitch, stick, words that are both nouns and verbs
+set, run, break, play, words with many dictionary meanings
+right, write, rite, wright, homophones of “right”
+lead, wind, bass, tear, words that change meaning when pronounced differently
+fair, foul, strike, out, baseball calls
+alpha, beta, gamma, delta, Greek letters used metaphorically
+yen, pound, buck, quid, slang for money
+crown, throne, scepter, regalia, symbols of monarchy
+fresco, mural, portrait, landscape, painting types
+aria, duet, trio, chorus, vocal music forms
+ram, ewe, doe, hen, female animals
+bull, stallion, rooster, ram, male animals
+rook, bishop, knight, pawn, chess pieces
+sonnet, haiku, ode, elegy, poetic forms
+satire, parody, farce, spoof, comedic imitation
+noir, western, thriller, rom-com, film genres
+prologue, epilogue, appendix, foreword, book sections
+comma, colon, semicolon, dash, punctuation marks
+integer, fraction, decimal, percentage, number forms
+noun, verb, adjective, adverb, parts of speech
+inhale, exhale, gasp, sigh, breathing actions
+blush, grin, frown, smirk, facial expressions
+sprint, jog, trot, dash, running speeds
+drizzle, shower, downpour, deluge, rain intensities
+whisper, murmur, shout, scream, vocal volume levels
+mint, basil, thyme, sage, culinary herbs
+oak, maple, pine, birch, tree types
+igloo, yurt, teepee, hut, traditional dwellings
+bunker, trench, shelter, foxhole, wartime structures
+fossil, relic, artifact, heirloom, preserved objects
+static, kinetic, thermal, nuclear, energy types
+orbit, axis, tilt, rotation, astronomical motion
+byte, bit, pixel, frame, digital units
+glitch, lag, bug, crash, software problems
+cache, cookie, session, token, web concepts
+thesis, antithesis, synthesis, dialectic, philosophy terms
+ego, id, superego, psyche, psychoanalysis terms
+placebo, control, variable, trial, experiment terms
+catalyst, reagent, solvent, compound, chemistry roles
+protein, lipid, carbohydrate, enzyme, biology terms
+apron, mitt, ladle, whisk, kitchen tools
+quill, parchment, scroll, codex, old writing materials
+sextant, compass, astrolabe, sundial, navigation tools
+fresco, mosaic, relief, carving, art techniques
+sonata, symphony, concerto, overture, classical music forms
+rook, pawn, knight, bishop, chess pieces
+tenor, alto, soprano, bass, vocal ranges
+paperback, hardcover, ebook, audiobook, book formats
+analog, digital, binary, quantum, computing descriptors
+memo, telegram, email, letter, message formats
+axis, plane, vector, scalar, math concepts
+theorem, proof, axiom, corollary, mathematics terms
+statute, verdict, appeal, injunction, legal terms
+ballot, caucus, primary, referendum, election terms
+tariff, embargo, sanction, subsidy, trade policy tools
+fresco, still life, portrait, landscape, art genres
+inhaler, syringe, scalpel, stethoscope, medical tools
+biopsy, autopsy, diagnosis, prognosis, medical processes
+virus, bacteria, fungus, parasite, pathogen types
+famine, drought, flood, plague, historical disasters
+rook, knight, bishop, pawn, chess pieces
+draft, revise, edit, proofread, writing stages
+pitch, tone, cadence, inflection, speech qualities
+quasar, pulsar, nebula, supernova, astronomical phenomena
+isotope, element, compound, molecule, chemistry units
+fresco, mural, graffiti, stencil, wall art
+monk, friar, nun, abbot, religious roles
+halo, aura, nimbus, glow, light imagery
+omen, portent, augury, prophecy, signs of the future
+myth, legend, folklore, fable, traditional stories
+inhale, exhale, gasp, wheeze, breath sounds
+glitch, artifact, noise, distortion, signal problems
+pilot, episode, finale, season, TV structure
+cameo, extra, lead, understudy, acting roles
+vignette, montage, dissolve, cut, film editing terms
+thesis, essay, treatise, dissertation, academic writing
+irony, satire, parody, sarcasm, rhetorical devices
+trope, motif, archetype, cliché, narrative patterns
+canon, lore, continuity, retcon, fictional universe terms
+reboot, sequel, remake, spin-off, franchise expansions
+prologue, climax, denouement, epilogue, plot stages
+stanza, verse, meter, rhyme, poetry structure
+overture, interlude, finale, coda, musical sections
+abstract, realism, impressionism, cubism, art movements
+fresco, relief, mosaic, bas-relief, wall art forms
+checkmate, stalemate, draw, resignation, chess endings
+alpha, beta, release, patch, software stages
+binge, stream, download, buffer, modern viewing actions
+cloud, local, remote, virtual, computing environments
+fork, branch, merge, commit, version control actions
